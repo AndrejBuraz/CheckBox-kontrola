@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\bin\Debug\net6.0-windows\CheckBoxKontrola.exe
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\bin\Debug\net6.0-windows\CheckBoxKontrola.deps.json
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\bin\Debug\net6.0-windows\CheckBoxKontrola.runtimeconfig.json
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\bin\Debug\net6.0-windows\CheckBoxKontrola.dll
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\bin\Debug\net6.0-windows\CheckBoxKontrola.pdb
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\net6.0-windows\CheckBoxKontrola.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\net6.0-windows\CheckBoxKontrola.Form1.resources
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\net6.0-windows\CheckBoxKontrola.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\net6.0-windows\CheckBoxKontrola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\net6.0-windows\CheckBoxKontrola.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\net6.0-windows\CheckBoxKontrola.AssemblyInfo.cs
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\net6.0-windows\CheckBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\net6.0-windows\CheckBoxKontrola.dll
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\net6.0-windows\refint\CheckBoxKontrola.dll
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\net6.0-windows\CheckBoxKontrola.pdb
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\net6.0-windows\CheckBoxKontrola.genruntimeconfig.cache
+C:\Users\HP\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\net6.0-windows\ref\CheckBoxKontrola.dll
